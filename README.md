@@ -63,8 +63,3 @@ To run this project locally, you will need to set up both the backend server and
 * MongoDB (a local instance or a connection string from MongoDB Atlas)
 * Access keys for Stripe & Cloudinary.
 * (Optional) [Ollama](https://ollama.com/) running locally for the AI assistant.
-
-
-## 📁 Project Structure
-
-Here is a high-level overview of the project's structure:
