@@ -1,4 +1,4 @@
-# E-Learning: A Full-Stack MERN LMS Platform
+# Cognito: A Full-Stack MERN LMS Platform
 
 This is a comprehensive, full-stack Learning Management System (LMS) built with the MERN stack (MongoDB, Express, React, Node.js) and modern tooling. It is a feature-rich platform, similar to a small-scale Udemy, designed with distinct user roles for **Students** and **Instructors**.
 
